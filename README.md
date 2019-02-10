@@ -9,7 +9,7 @@
 
 ## Usage
 * Download the dataset from kaggle and place them in the same directory as the notebook.
-* Specify the path of embeddings in the EMBEDDINGS_PATH list.
+* Specify the path of embeddings in the EMBEDDINGS_FILES list.
 
 ## Dependencies
 * Keras/ Tensorflow
